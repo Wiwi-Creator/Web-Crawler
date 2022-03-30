@@ -33,3 +33,13 @@ requests
    ● 指令: pip install requests
    
 ```
+***   
+#### Practice :
+```markdown
+Basic Web Crawer
+   
+ [01.資料型態](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%B3%87%E6%96%99%E5%9E%8B%E8%88%87%E8%BC%B8%E5%85%A5.ipynb) 
+ [01.資料型態](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%B3%87%E6%96%99%E5%9E%8B%E8%88%87%E8%BC%B8%E5%85%A5.ipynb) 
+
+
+```
