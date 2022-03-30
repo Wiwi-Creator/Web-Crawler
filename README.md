@@ -23,8 +23,13 @@ Jupyter NoteBook
 #### Model :
 
 ```markdown
-Jupyter NoteBook
+BeautifulSoup4
    
-   ●說明:借助網頁結構的特性來解析網頁的工具，可透過指令提取HTML的元素
-   ●指令: pip install beautifulsoup4    
+   ● 說明:借助網頁結構的特性來解析網頁的工具，可透過指令提取HTML的元素
+   ● 指令: pip install beautifulsoup4    
+   
+requests
+   ● 說明:對網頁發出請求的模組，可實現對網頁做get、post等HTTP協定之行為。    
+   ● 指令: pip install requests
+   
 ```
