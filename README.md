@@ -39,6 +39,10 @@ requests
    
  [01.基礎爬蟲](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/Web_Crawer.py) 
  
- [02.爬蟲(針對上一頁)]()
+ [02.爬蟲(針對上一頁)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetLastPage.ipynb)
+ 
+ [02.爬蟲(針對多頁)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetMulityPages.ipynb)
+ 
+ 
 
 
