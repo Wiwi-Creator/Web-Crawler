@@ -37,7 +37,7 @@ requests
 ***   
 #### Basic Web Crawer : 
    
- [01.基礎爬蟲](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/Web_Crawer.py) 
+ [01.基礎爬蟲](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetMulityPages.ipynb) 
  
 
  
