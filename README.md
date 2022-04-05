@@ -39,7 +39,7 @@ requests
    
  [01.基礎爬蟲HTML(PTT)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetMulityPages.ipynb) 
  
- [02.基礎爬蟲Picture(PTT)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetPic.ipynb)
+ [02.基礎爬蟲Picture(Dcard)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetPic.ipynb)
 
  
  
