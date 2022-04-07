@@ -44,7 +44,7 @@ requests
  
  [02.基礎爬蟲Picture(Dcard)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetPic.ipynb)
 
- [03.爬蟲練習(Etoday)]()
+ [03.爬蟲練習(Etoday)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/HTMLpractice.ipynb)
  
 
 
