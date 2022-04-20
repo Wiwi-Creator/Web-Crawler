@@ -62,7 +62,7 @@ Scrapy
 ```
 ***
 #### Process :
-
+![image](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/%E6%B5%81%E7%A8%8B.PNG)
 ```markdown
 
 ```
