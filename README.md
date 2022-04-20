@@ -16,6 +16,17 @@
 
 ```
 ***
+***
+#### Mode of Operation :
+```markdown
+
+網路的基本架構，分為用戶端(Client)及伺服端(Server)。
+
+其中，用戶端(Client)就是使用者瀏覽網頁的裝置(例：本機電腦)，當使用者點擊網頁時，
+就代表請求(Request)的動作，存取該網頁連結的伺服端(Server)，而伺服端(Server)接收連結得知使用者所要看的網頁後，將內容回應(Response)給用戶端(Client)。
+
+```
+***
 #### Tool  :
 ```markdown
 Jupyter NoteBook
