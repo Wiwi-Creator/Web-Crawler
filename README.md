@@ -16,22 +16,26 @@
 
 ```
 ***
-***
+
 #### Mode of Operation :
 ```markdown
 
 網路的基本架構，分為用戶端(Client)及伺服端(Server)。
 
 其中，用戶端(Client)就是使用者瀏覽網頁的裝置(例：本機電腦)，當使用者點擊網頁時，
-就代表請求(Request)的動作，存取該網頁連結的伺服端(Server)，而伺服端(Server)接收連結得知使用者所要看的網頁後，將內容回應(Response)給用戶端(Client)。
+就代表請求(Request)的動作，存取該網頁連結的伺服端(Server)，
+而伺服端(Server)接收連結得知使用者所要看的網頁後，將內容回應(Response)給用戶端(Client)。
 
 ```
-***
-#### Tool  :
+
+#### Struction of Web  :
 ```markdown
-Jupyter NoteBook
-   
-   ●介於IDE和Editor間可以寫code，亦可以做資料視覺化的工具 
+
+網頁是由許多的標籤(Tag)與元素(Elements)組成，並且具有階層式的結構，
+所以Python網頁爬蟲就需要透過定位，來取得所需的元素(Elements)。
+
+Python網頁爬蟲取得元素(Elements)後，就可以利用套件及框架，
+爬取其中的資料，也就是去掉元素(Elements)中的HTML標籤(Tag)。
    
 ```   
 ***   
@@ -40,12 +44,20 @@ Jupyter NoteBook
 ```markdown
 BeautifulSoup4
    
-   ● 說明:借助網頁結構的特性來解析網頁的工具，可透過指令提取HTML的元素
+   ● 說明:借助網頁結構的特性來解析網頁的工具，可透過指令提取HTML的元素(易入門)
    ● 指令: pip install beautifulsoup4    
    
 requests
    ● 說明:對網頁發出請求的模組，可實現對網頁做get、post等HTTP協定之行為。    
    ● 指令: pip install requests
+   
+Selenium
+   ● 說明:擁有自動化測試及爬取功能，可透過Javascript爬取，非常適合需要滾動卷軸做動態載入的網站(EX:電子商務或社群)。    
+   ● 指令: pip install requests   
+
+Scrapy
+   ● 說明:爬取速度更快，也有非同步的功能，適合爬取大量資料及大型爬蟲專案。
+   ● 指令: pip install requests   
    
 ```
 ***   
