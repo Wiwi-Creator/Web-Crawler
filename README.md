@@ -60,7 +60,13 @@ Scrapy
    ● 指令: pip install requests   
    
 ```
-***   
+***
+#### Process :
+
+```markdown
+
+```
+***
 #### Basic Web Crawer : 
    
  [01.基礎爬蟲HTML(PTT)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetMulityPages.ipynb) 
