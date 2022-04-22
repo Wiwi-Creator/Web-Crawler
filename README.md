@@ -52,7 +52,7 @@ requests
    ● 指令: pip install requests
    
 Selenium
-   ● 說明:擁有自動化測試及爬取功能，可透過Javascript爬取，非常適合需要滾動卷軸做動態載入的網站(EX:電子商務或社群)。    
+   ● 說明:擁有自動化測試及爬取功能，可透過Javascript爬取，非常適合需要滾動卷軸做動態載入的網站(EX:電子商務)。    
    ● 指令: pip install requests   
 
 Scrapy
