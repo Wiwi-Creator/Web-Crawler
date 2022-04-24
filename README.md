@@ -75,5 +75,7 @@ Scrapy
 
  [03.爬蟲練習(Etoday新聞雲)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/HTMLpractice.ipynb)
  
+ [03.爬蟲Project(Yahoo股市爬蟲)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/Stock_Yahoo.ipynb)
+ 
 
 
