@@ -35,8 +35,7 @@
 所以Python網頁爬蟲就需要透過定位，來取得所需的元素(Elements)。
 
 Python網頁爬蟲取得元素(Elements)後，就可以利用套件及框架，
-爬取其中的資料，也就是去掉元素(Elements)中的HTML標籤(Tag)。
-   
+爬取其中的資料，也就是去掉元素(Elements)中的HTML標籤(Tag)。   
 ```   
 ***   
 #### Model :
@@ -58,7 +57,6 @@ Selenium
 Scrapy
    ● 說明:爬取速度更快，也有非同步的功能，適合爬取大量資料及大型爬蟲專案。
    ● 指令: pip install requests   
-   
 ```
 ***
 #### Process :
